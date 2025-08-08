@@ -124,7 +124,7 @@ competition-driven-figures/
 │       ├── payoff_tables.csv
 │       └── figures_of_merit.csv
 ├── documentation/
-│   └── Code_Documentation_Facebook_Prophet.pdf
+│   └── (PDF available via Google Drive link)
 └── documentation/
     └── methodology_notes.md
 ```
@@ -137,7 +137,7 @@ This project includes comprehensive PDF documentation that provides:
 - **Performance Metrics**: In-depth analysis of key indicators
 - **Strategic Insights**: Comprehensive interpretation of results
 
-**📖 View Documentation**: [Code_Documentation_Facebook_Prophet.pdf](documentation/Code_Documentation_Facebook_Prophet.pdf)
+**📖 View Documentation**: [Recreating_Competition_driven_figures.pdf](https://drive.google.com/file/d/1oD91m2wcz8SscpBb8LsGMIxGsNeQ2J45/view?usp=share_link)
 
 ## 🔬 Research Applications
 
