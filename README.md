@@ -123,9 +123,21 @@ competition-driven-figures/
 │   └── analysis/
 │       ├── payoff_tables.csv
 │       └── figures_of_merit.csv
+├── documentation/
+│   └── Code_Documentation_Facebook_Prophet.pdf
 └── documentation/
     └── methodology_notes.md
 ```
+
+## 📄 Documentation
+
+This project includes comprehensive PDF documentation that provides:
+- **Competitive Analysis**: Detailed methodology for strategic positioning
+- **Game Theory Application**: Complete modeling of competitive dynamics
+- **Performance Metrics**: In-depth analysis of key indicators
+- **Strategic Insights**: Comprehensive interpretation of results
+
+**📖 View Documentation**: [Code_Documentation_Facebook_Prophet.pdf](documentation/Code_Documentation_Facebook_Prophet.pdf)
 
 ## 🔬 Research Applications
 
