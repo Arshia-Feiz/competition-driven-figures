@@ -129,15 +129,7 @@ competition-driven-figures/
     └── methodology_notes.md
 ```
 
-## 📄 Documentation
 
-This project includes comprehensive PDF documentation that provides:
-- **Competitive Analysis**: Detailed methodology for strategic positioning
-- **Game Theory Application**: Complete modeling of competitive dynamics
-- **Performance Metrics**: In-depth analysis of key indicators
-- **Strategic Insights**: Comprehensive interpretation of results
-
-**📖 View Documentation**: [Recreating_Competition_driven_figures.pdf](https://drive.google.com/file/d/1oD91m2wcz8SscpBb8LsGMIxGsNeQ2J45/view?usp=sharing)
 
 ## 🔬 Research Applications
 
